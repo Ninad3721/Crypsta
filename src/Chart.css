@@ -1,0 +1,60 @@
+.main
+{
+    display: flex;
+    margin: 10px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: gray;
+    align-items: baseline;
+
+
+}
+
+.rank >p
+{
+    margin: 10px;
+    font-weight: 500;
+    
+
+}
+
+.Image> img
+{
+    height: 24px;
+    margin-left: 118px;
+    padding-right: 3px;
+}
+
+.Name >p{
+    font-weight: 500;
+}
+
+.Gain >p{
+    font-weight: 500;
+    color: green;
+    margin-left: 228px;
+}
+
+.Drop>p{
+    font-weight: 500;
+    color: red;
+    margin-left: 232px;
+}
+
+.Price >p{
+    font-weight: 500;
+    margin-left: 203px;
+}
+
+
+.MarketCap >p{
+    font-weight: 500;
+    margin-left: 278px;
+}
+
+
+
+
+
+

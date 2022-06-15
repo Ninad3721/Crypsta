@@ -1,0 +1,11 @@
+.navbar-brand 
+{
+    color: black;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn btn-outline-success 
+{
+    color: brown;
+}

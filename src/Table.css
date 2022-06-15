@@ -1,0 +1,9 @@
+.title
+{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+   font-weight: 700;
+    
+}
